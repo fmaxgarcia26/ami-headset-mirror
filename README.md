@@ -1,7 +1,7 @@
 # AMI headset recordings, short windows
 
 This repository holds short windows of 23 meetings of the AMI Meeting Corpus, cut from the
-individual headset microphone recordings, together with the reference speaker turns of the
+individual headset microphone recordings (two of them from the published headset mix), together with the reference speaker turns of the
 same windows. It exists so that a build can fetch a small, fixed part of the corpus from one
 place.
 
@@ -13,6 +13,8 @@ publisher serves for that part of the recording.
 - `audio/<meeting>_<start>_<end>.flac`: one multi-channel FLAC per window (16 kHz, 16 bit,
   lossless). Channel k is `Headset-k` of that meeting, so a file has four or five channels.
   `<start>` and `<end>` are seconds from the start of the meeting recording.
+- `audio/<meeting>-mix_<start>_<end>.flac`: the same kind of window cut from the corpus's own
+  single-channel mix of the headsets (`<meeting>.Mix-Headset.wav`), one channel.
 - `rttm/<meeting>_<start>_<end>.rttm`: the reference turns of the window, clipped to it, with
   times counted from the start of the window.
 - `MANIFEST.json`: for every window and every channel, the publisher URL, the first and last
