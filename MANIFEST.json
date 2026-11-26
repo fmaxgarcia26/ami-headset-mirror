@@ -95,87 +95,46 @@
   ],
   "start_seconds": 540
  },
- "EN2002a_0300_0780": {
+ "EN2002b_0180_0780": {
   "channels": 4,
   "end_seconds": 780,
-  "flac_sha256": "d49c0125be90be463ccf48983148e7fcb68b979b42cb593df6f57037dc8d598d",
-  "meeting": "EN2002a",
-  "pcm_sha256": "f5a5cc9d95b19f5ecfd9217715708e2b9f79d8d6f610bded37c81c67d3a917fe",
-  "reference_sha256": "cf8d26da582829aa753b64ac9eb23bc783f7cac423df76bcad4ea2178c303642",
-  "reference_source": "AMI diarization setup, only_words, revision 67c2d53",
-  "samples": 7680000,
-  "sources": [
-   {
-    "file_data_bytes": 68566700,
-    "first_byte": 9600044,
-    "last_byte": 24960043,
-    "sha256": "1d59bc7d546322a34d79792e0fb44416fda89609c6beb71d0615e431ad650b51",
-    "url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/EN2002a/audio/EN2002a.Headset-0.wav"
-   },
-   {
-    "file_data_bytes": 68566700,
-    "first_byte": 9600044,
-    "last_byte": 24960043,
-    "sha256": "a0af663958209e22356e6eec838d82b7ceb66b8417ad79261879dbf01bab47d4",
-    "url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/EN2002a/audio/EN2002a.Headset-1.wav"
-   },
-   {
-    "file_data_bytes": 68566700,
-    "first_byte": 9600044,
-    "last_byte": 24960043,
-    "sha256": "01f665c49768b40e3ff004abe17102d4225ec35e589dfd7d975e4c1ff065c654",
-    "url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/EN2002a/audio/EN2002a.Headset-2.wav"
-   },
-   {
-    "file_data_bytes": 68566700,
-    "first_byte": 9600044,
-    "last_byte": 24960043,
-    "sha256": "9b6e6761455e0aa2a7f27620aa764d6b562e89a26ffc30ff37fdf23521f6cbab",
-    "url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/EN2002a/audio/EN2002a.Headset-3.wav"
-   }
-  ],
-  "start_seconds": 300
- },
- "EN2002b_0300_0420": {
-  "channels": 4,
-  "end_seconds": 420,
-  "flac_sha256": "d5b5657b2fab6613efec8afbaadcbdb9886e32643ddd91066cdb998d8ff629b9",
+  "flac_sha256": "7323c4a74e6bca850763c016823912c4a661268f00aa9266ec1363eb60f745dd",
   "meeting": "EN2002b",
-  "pcm_sha256": "fe4cba975b73b5c8d8e51e228bf40e56fd76651a463667c68aabeb2cdbcda408",
-  "reference_sha256": "b2b817ffe77c9561624a26e92917b3400163ce14bf4b879f5b8ea8ba926aefb2",
+  "pcm_sha256": "8cf99f505298d1bee57bf9047981a15a9a3dd1079b9f0d2018af89cfc5da414f",
+  "reference_sha256": "e64e622aad071178d2732d21a1b96c1867cb38a8bc149517631d4348ef5f2f28",
   "reference_source": "AMI diarization setup, only_words, revision 67c2d53",
-  "samples": 1920000,
+  "samples": 9600000,
   "sources": [
    {
     "file_data_bytes": 57179136,
-    "first_byte": 9600044,
-    "last_byte": 13440043,
-    "sha256": "3cbd189b69450f30cdfb37ddaa700247e170ba27c4cfb1da1d4b60c5ff8fb417",
+    "first_byte": 5760044,
+    "last_byte": 24960043,
+    "sha256": "bae245f5a9e6b7a7343ec7bd80dc749ce6164ecc4c3f080ce3f2a4d54674ef51",
     "url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/EN2002b/audio/EN2002b.Headset-0.wav"
    },
    {
     "file_data_bytes": 57179136,
-    "first_byte": 9600044,
-    "last_byte": 13440043,
-    "sha256": "2f4611239d20366458e3e7268b2bed45fd5a1e64a2dfa3177471e9676f5e395b",
+    "first_byte": 5760044,
+    "last_byte": 24960043,
+    "sha256": "936b73f7b564d25f55eb96cc63d888bd80dd761fcd5f5a0bf012e283ce652a0e",
     "url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/EN2002b/audio/EN2002b.Headset-1.wav"
    },
    {
     "file_data_bytes": 57179136,
-    "first_byte": 9600044,
-    "last_byte": 13440043,
-    "sha256": "d08ca6b051a91c91c9f984875a051c4d0a70896a67f0bade7ca27ded132d5abb",
+    "first_byte": 5760044,
+    "last_byte": 24960043,
+    "sha256": "bdd7e04ee03682925bd13e9e8879315eaf098c1cef3e89764911a0a2632ed520",
     "url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/EN2002b/audio/EN2002b.Headset-2.wav"
    },
    {
     "file_data_bytes": 57179136,
-    "first_byte": 9600044,
-    "last_byte": 13440043,
-    "sha256": "e3f57e935195ea0fcec02eb651b7cede3e952cca64cde641d4d21e32e6a0c9e9",
+    "first_byte": 5760044,
+    "last_byte": 24960043,
+    "sha256": "5cef9f51f352502359391c7f73bbe525b433c698f39dd44aec90628f27cb334d",
     "url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/EN2002b/audio/EN2002b.Headset-3.wav"
    }
   ],
-  "start_seconds": 300
+  "start_seconds": 180
  },
  "EN2009b_0300_0420": {
   "channels": 4,
@@ -505,46 +464,46 @@
   ],
   "start_seconds": 300
  },
- "IS1008a_0060_0780": {
+ "IS1008a_0300_0780": {
   "channels": 4,
   "end_seconds": 780,
-  "flac_sha256": "925996b3f86d2d1380d27505e272ba8f4813a23bad8059b590fe57eaea9721fc",
+  "flac_sha256": "1f64dff93aead9ca29d5e0066741cd37a4095851907f43dee2c4b21ebb178f24",
   "meeting": "IS1008a",
-  "pcm_sha256": "4dc60a6f60b4c7dd5eb540d580036e6f26026a48a8bcd3a7dd28e7752c8b85b5",
-  "reference_sha256": "c7774b7a2aad15b54710f341cab4b9dd39341fa6e3c545c71d5202b2dada3bbc",
+  "pcm_sha256": "350f2fda3c1475f5911d05d389fb138e086e32b233e1863536d69408b4694a12",
+  "reference_sha256": "6a80bfe0ac30c1501e1bcc02e6a6b45fa536a99f3e455d125c4a7524e4e807d0",
   "reference_source": "AMI diarization setup, only_words, revision 67c2d53",
-  "samples": 11520000,
+  "samples": 7680000,
   "sources": [
    {
     "file_data_bytes": 30201172,
-    "first_byte": 1920044,
+    "first_byte": 9600044,
     "last_byte": 24960043,
-    "sha256": "3b6b6e78d006c65e04a664dbbc4e8f9b30a6a55421f24d8fb24fe8e95297b974",
+    "sha256": "260364b8eab018778c902992b12320970223b1fb166214a81cd947f529af22f6",
     "url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/IS1008a/audio/IS1008a.Headset-0.wav"
    },
    {
     "file_data_bytes": 30201172,
-    "first_byte": 1920044,
+    "first_byte": 9600044,
     "last_byte": 24960043,
-    "sha256": "b158289ec41aac0537661f822e7573ddd4096a0b6a12c954500b67dcc3b38f15",
+    "sha256": "ef11b6b8edb39a9cfed55e9be69f5a1080e41e5d9aa09595b678ce45449b282d",
     "url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/IS1008a/audio/IS1008a.Headset-1.wav"
    },
    {
     "file_data_bytes": 30201172,
-    "first_byte": 1920044,
+    "first_byte": 9600044,
     "last_byte": 24960043,
-    "sha256": "bed222472367eb0dd8fb03f701bf15768dd495609340aad82d9de484f4dec548",
+    "sha256": "f4d16bf27ededf86cf1e909c9d5ede8f29a7d0f0a9840384b92fa3da90b8c420",
     "url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/IS1008a/audio/IS1008a.Headset-2.wav"
    },
    {
     "file_data_bytes": 30201172,
-    "first_byte": 1920044,
+    "first_byte": 9600044,
     "last_byte": 24960043,
-    "sha256": "361bfe5956be1c3f6d9bc26dab31df86a53208ec4dea583bf5126a236bbc29cd",
+    "sha256": "0dd70d59aecd2faa4bd16abd9ebc0bc9d9f0b82d1d0fac3656a69bed63cd1288",
     "url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/IS1008a/audio/IS1008a.Headset-3.wav"
    }
   ],
-  "start_seconds": 60
+  "start_seconds": 300
  },
  "IS1008b_0300_0420": {
   "channels": 4,
@@ -624,6 +583,47 @@
     "last_byte": 13440043,
     "sha256": "3f64b2a146ee4eb716677865e16338b618bdf02b8783fc5618e3f15ed2471b33",
     "url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/IS1008d/audio/IS1008d.Headset-3.wav"
+   }
+  ],
+  "start_seconds": 300
+ },
+ "IS1009b_0300_0420": {
+  "channels": 4,
+  "end_seconds": 420,
+  "flac_sha256": "e8fdf3c3c0786d8a92d9b7798e54728e796bacd5e3a56dff1a8ee06f7680706c",
+  "meeting": "IS1009b",
+  "pcm_sha256": "b748aacd0aea496eeb3d4d862b37130eb135859d34bcb2eb3f55ea88f6e0f3d2",
+  "reference_sha256": "80af523666d68ffdf17a596075ce70eb38ba50532310a41e367f82a7d9bc83f9",
+  "reference_source": "AMI diarization setup, only_words, revision 67c2d53",
+  "samples": 1920000,
+  "sources": [
+   {
+    "file_data_bytes": 65672532,
+    "first_byte": 9600044,
+    "last_byte": 13440043,
+    "sha256": "a80f13f75e48d93e6d001b37144598fbfeb61546b540daa557fb43b47f0ad745",
+    "url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/IS1009b/audio/IS1009b.Headset-0.wav"
+   },
+   {
+    "file_data_bytes": 65672532,
+    "first_byte": 9600044,
+    "last_byte": 13440043,
+    "sha256": "3fac444bd5b46de04138e95b2d6e14823341d1349fa2f80bdfce2794ae97c7e3",
+    "url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/IS1009b/audio/IS1009b.Headset-1.wav"
+   },
+   {
+    "file_data_bytes": 65672532,
+    "first_byte": 9600044,
+    "last_byte": 13440043,
+    "sha256": "0da66498b629d6ca678ce69e22eca73a284ac195480bb1366cdd0c2effe137f6",
+    "url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/IS1009b/audio/IS1009b.Headset-2.wav"
+   },
+   {
+    "file_data_bytes": 65672532,
+    "first_byte": 9600044,
+    "last_byte": 13440043,
+    "sha256": "fa94d7e574c1b5f1429e7adf8f8194f7a34c37a3470ff65e959f0c567ad5c2b5",
+    "url": "https://groups.inf.ed.ac.uk/ami/AMICorpusMirror/amicorpus/IS1009b/audio/IS1009b.Headset-3.wav"
    }
   ],
   "start_seconds": 300
